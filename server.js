@@ -16,7 +16,7 @@ const MIME_TYPES = {
   ".ico": "image/x-icon"
 };
 
-const server = http.createServer((req, res) => {
+function handleRequest(req, res) {
   let reqPath = decodeURI(req.url.split("?")[0]);
   if (reqPath === "/" || reqPath === "") reqPath = "/index.html";
 
@@ -45,19 +45,26 @@ const server = http.createServer((req, res) => {
     const stream = fs.createReadStream(filePath);
     stream.pipe(res);
   });
-});
+}
+
+const server = http.createServer(handleRequest);
 
 server.on("error", (err) => {
   if (err.code === "EADDRINUSE") {
     console.log(`  ℹ️  Port ${PORT} is busy, switching to http://localhost:${PORT + 1}...`);
     PORT++;
-    server.listen(PORT);
+    server.listen(PORT, "0.0.0.0");
   } else {
     console.error("Server error:", err);
   }
 });
 
-server.listen(PORT, () => {
-  console.log(`\n  ☕ Java MCQ Portal is running!`);
-  console.log(`  ➜ Local:   http://localhost:${PORT}/\n`);
-});
+// Run server only if executed directly (not when imported as a serverless function)
+if (require.main === module) {
+  server.listen(PORT, "0.0.0.0", () => {
+    console.log(`\n  ☕ Java MCQ Portal is running!`);
+    console.log(`  ➜ Local:   http://localhost:${PORT}/\n`);
+  });
+}
+
+module.exports = handleRequest;
