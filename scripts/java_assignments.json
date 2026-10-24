@@ -1,0 +1,1322 @@
+[
+  {
+    "assignment": "Assignment 01",
+    "question": "Consider the following program.\nclass MPTEL {\npublic static void main(String[] args)\n{\nSystem.out.println(\"Hello, World!\");\n}\nWhat is the output of the above code?",
+    "options": {
+      "a": "Hello, World!",
+      "b": "HelloWorld!",
+      "c": "Compilation Error",
+      "d": "Runtime Error"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "A Java file with extension '.class' contains:",
+    "options": {
+      "a": "Java source code",
+      "b": "HTML tags",
+      "c": "Java Byte code",
+      "d": "A program file written in Java programming language"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "Which of the following is NOT an object-oriented programming paradigm?",
+    "options": {
+      "a": "Encapsulation",
+      "b": "Inheritance",
+      "c": "Polymorphism",
+      "d": "Dynamic memory allocation"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "What is the correct sequence of steps to execute a Java program?",
+    "options": {
+      "a": "Run Edit -> Compile",
+      "b": "Edit Run -> Compile",
+      "c": "Compile Edit -> Run",
+      "d": "Edit Compile -> Run"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "Which program is used to compile Java source code into bytecode?",
+    "options": {
+      "a": "javap",
+      "b": "javac",
+      "c": "java",
+      "d": "javad"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "In Java, what is the role of the public static void main(String[] args) method?",
+    "options": {
+      "a": "Initialization method",
+      "b": "Execution entry point",
+      "c": "Constructor",
+      "d": "Destructor"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "Which of the following is not a feature of Java?",
+    "options": {
+      "a": "Platform Independence",
+      "b": "Object-Oriented Programming",
+      "c": "Supports Explicit Pointers",
+      "d": "Supports Polymorphism"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "What is the primary purpose of the Java Virtual Machine (JVM) in the Java programming language?",
+    "options": {
+      "a": "Graphical User Interface",
+      "b": "Platform independence",
+      "c": "Code Debugging",
+      "d": "Game Engine"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "Consider the following program.\npublic class Question {\npublic static void main(String[] args) {\nint x=5;\nx*=(2+8);\nSystem.out.println(x);\n}\nWhat is the output of the above code?",
+    "options": {
+      "a": "50",
+      "b": "10",
+      "c": "0",
+      "d": "5"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 01",
+    "question": "Which of the following is true regarding how Java handles code execution?",
+    "options": {
+      "a": "Java uses only interpreter.",
+      "b": "Java uses only compiler.",
+      "c": "Java uses both interpreter and compiler.",
+      "d": "None of the above."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "What is the correct signature of the main method in Java?",
+    "options": {
+      "a": "public static void main(String[] args)",
+      "b": "public void main(String args[])",
+      "c": "void main(String[] args)",
+      "d": "public static void main(Sting [])"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "What will be the output of the above Java program? (VarPrint)",
+    "options": {
+      "a": "30 99 178",
+      "b": "30 88 129",
+      "c": "30 99 187",
+      "d": "99 99 187"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "What will be the output of the code given above? (ArgumenTest)",
+    "options": {
+      "a": "839 45foo45 9foo",
+      "b": "9 7 7 foo34 34foo",
+      "c": "72 34 34 foo34 34foo",
+      "d": "839 45foo45 9foo9"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "Which keyword is used in Java to refer to the current object?",
+    "options": {
+      "a": "this",
+      "b": "that",
+      "c": "self",
+      "d": "current"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "Which of the following is true about constructors in a class?",
+    "options": {
+      "a": "Constructors do not have a return type.",
+      "b": "Constructors aren't used to initialize objects.",
+      "c": "A class can have only one constructor.",
+      "d": "Constructors cannot be overloaded."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "What will be the output of the code given above? (NPTEL W2)",
+    "options": {
+      "a": "0",
+      "b": "10",
+      "c": "100",
+      "d": "Runtime error"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "What will be the output of the code given above? (Hello World Printf)",
+    "options": {
+      "a": "Hello World\\nNumber: 10",
+      "b": "Hello WorldNumber: 10",
+      "c": "Hello\\nWorld\\nNumber: 10",
+      "d": "Hello World\\nNumber: 10\\n"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "Which class is used in Java to take runtime data input from the user?",
+    "options": {
+      "a": "BufferReader",
+      "b": "UserInputStreamReader",
+      "c": "Scanner",
+      "d": "DataInputStreamReader"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "How do you read a line of text from the console using the Scanner class in Java?",
+    "options": {
+      "a": "scanner.readLine()",
+      "b": "scanner.nextLine()",
+      "c": "scanner.getLine()",
+      "d": "scanner.fetchLine()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 02",
+    "question": "Which of the following is the correct way to declare a class in Java?",
+    "options": {
+      "a": "public class MyClass {}",
+      "b": "class MyClass[] {}",
+      "c": "public MyClass class {}",
+      "d": "MyClass public class {}"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "Which of the following statements is true regarding the order of execution of constructors in an inheritance hierarchy?",
+    "options": {
+      "a": "Derived class constructor will be called followed by the base class constructor.",
+      "b": "Only Base class constructor will be called.",
+      "c": "Only derived class constructor will be called.",
+      "d": "Base class constructor will be called followed by the derived class constructor."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "The super() method is used to:",
+    "options": {
+      "a": "Call constructor of friend class",
+      "b": "Call constructor of the parent class",
+      "c": "Call constructor",
+      "d": "Is a declared method"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "What is the output of the following Java program? (Vehicle/Car)",
+    "options": {
+      "a": "\"The vehicle moves\"",
+      "b": "\"The car moves\"",
+      "c": "The code does not compile",
+      "d": "None of the above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "Which of the following is NOT true regarding the final keyword in Java?",
+    "options": {
+      "a": "A final method cannot be overridden in a subclass.",
+      "b": "A final variable can only be assigned once.",
+      "c": "A final class can have subclasses.",
+      "d": "A final variable can be assigned during declaration or in the constructor."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "Which type of inheritance leads to the \"Diamond Problem\"?",
+    "options": {
+      "a": "Single level",
+      "b": "Multi-level",
+      "c": "Multiple",
+      "d": "Hierarchical"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "Members of a class which are not intended to be inherited by subclasses should be declared as:",
+    "options": {
+      "a": "Public members",
+      "b": "Protected members",
+      "c": "Private members",
+      "d": "Private or Protected members"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "In Java, is it possible to override a static method?",
+    "options": {
+      "a": "Yes, we can override a static method just like we do with instance methods.",
+      "b": "No, static methods cannot be overridden because they belong to the class, not the object.",
+      "c": "It depends on whether the static method is declared as final or not.",
+      "d": "It depends on the access modifier of the static method."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "What is the output of the following Java program? (Recursive fun(5))",
+    "options": {
+      "a": "5",
+      "b": "24",
+      "c": "120",
+      "d": "Runtime Error"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "Which of the following statements about abstract classes in Java is correct?",
+    "options": {
+      "a": "Abstract classes can be instantiated directly.",
+      "b": "An abstract class must contain at least one abstract method.",
+      "c": "A class inheriting from an abstract class must implement all its abstract methods unless it is itself abstract.",
+      "d": "Abstract classes can be marked as final."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 03",
+    "question": "What will be the output of the below program? (superDemoClass final int a=20)",
+    "options": {
+      "a": "value of a=20",
+      "b": "error: cannot assign a value to final variable a",
+      "c": "error: unknown variable 'a' in class subDemoClass",
+      "d": "value of a=40"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "What is the process by which we can control what parts of a program can access the members of a class?",
+    "options": {
+      "a": "Polymorphism",
+      "b": "Augmentation",
+      "c": "Encapsulation",
+      "d": "Recursion"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "What will be the output if the program is executed? (Math.cos(2*PI))",
+    "options": {
+      "a": "It will give compile-time error",
+      "b": "It will give run-time error",
+      "c": "1.0",
+      "d": "3.14"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "What will be the output of the code given above? (Person and Employee Constructors)",
+    "options": {
+      "a": "1Java11Java0",
+      "b": "1Java10Java0",
+      "c": "10Java0Java",
+      "d": "0Java11Java0"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "In Java, can a subclass in a different package access a superclass's protected method?",
+    "options": {
+      "a": "Yes, without any restrictions.",
+      "b": "Yes, but only if they are in the same package.",
+      "c": "No, protected methods are not accessible by subclasses.",
+      "d": "Yes, but only through inheritance (i.e., using super or this, not via an object)"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "A package is a collection of:",
+    "options": {
+      "a": "Only classes",
+      "b": "Only interfaces",
+      "c": "editing tools",
+      "d": "classes, methods and interfaces"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "How many errors does this program contain? (private static void main)",
+    "options": {
+      "a": "None",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "Consider the following 2 programs... Choose the best option among the following for the code snippet given above",
+    "options": {
+      "a": "Both pre-increment and post-increment operators becomes pre-increment during print.",
+      "b": "Both pre-increment and post-increment operators becomes post-increment during print.",
+      "c": "Both Main1 and Main2 classes give the same output (but can depend on the compiler).",
+      "d": "Pre-increment and post-increment operators don't work during print."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "What is the output of the above Java Code Snippet with protected access modifier? (Teacher and Student packages)",
+    "options": {
+      "a": "100 marks",
+      "b": "No output",
+      "c": "Compiler error",
+      "d": "None of the above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "Choose the correct syntax of a Java Package below.",
+    "options": {
+      "a": "package PACKAGE_NAME;",
+      "b": "package PACKAGE_NAME.*;",
+      "c": "pkg PACKAGE_NAME;",
+      "d": "pkg PACKAGE_NAME.*;"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 4",
+    "question": "Which of these access specifiers must be used for main () method?",
+    "options": {
+      "a": "private",
+      "b": "public",
+      "c": "protected",
+      "d": "default"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Which keyword is NOT used by Java during exception handling?",
+    "options": {
+      "a": "try",
+      "b": "catch",
+      "c": "final",
+      "d": "finally"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "What is the purpose of the throws keyword in Java?",
+    "options": {
+      "a": "To declare exceptions that a method can throw",
+      "b": "To throw an exception immediately",
+      "c": "To catch an exception",
+      "d": "It is not a keyword in Java"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Which of the following is TRUE about interfaces in Java?",
+    "options": {
+      "a": "Interfaces should always be defined as final",
+      "b": "Interfaces can be instantiated directly.",
+      "c": "Interfaces can extend multiple interfaces.",
+      "d": "Interfaces cannot have any method signatures"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "What will be the output of the following code? (interface Demo)",
+    "options": {
+      "a": "Hello, NPTEL!",
+      "b": "Compilation Error",
+      "c": "Runtime Error",
+      "d": "No Output"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "What will be the output of the following Java program? (interface Calculator)",
+    "options": {
+      "a": "Square: 9 Cube: 9",
+      "b": "Cube: 27 Square: 9",
+      "c": "Square: 9 Square: 27 Cube: 27",
+      "d": "Square: 9 Cube: 27 Square: 27"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "What will be the output of the following program? (try catch ArithmeticException)",
+    "options": {
+      "a": "5 Complete",
+      "b": "Error Complete",
+      "c": "Runtime Error",
+      "d": "Compilation Error"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "What will be the output of the following Java program? (interface A int x=10)",
+    "options": {
+      "a": "Value of x: 10",
+      "b": "Value of x: 0",
+      "c": "Compilation Error",
+      "d": "Runtime Error"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Which keyword is used by Java during exception handling?",
+    "options": {
+      "a": "final",
+      "b": "finally",
+      "c": "caught",
+      "d": "finished"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "A method that potentially generates a checked exception must include this keyword in its method signature:",
+    "options": {
+      "a": "throw",
+      "b": "extend",
+      "c": "throws",
+      "d": "extends"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "What will be the output of the above code? (throw new Test())",
+    "options": {
+      "a": "Got the Test Exception\\nInside finally block",
+      "b": "Got the Test Exception",
+      "c": "Inside finally block",
+      "d": "Compiler Error"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "What is the primary difference between Byte Streams and Character Streams in Java?",
+    "options": {
+      "a": "Byte Streams handle characters, while Character Streams handle bytes.",
+      "b": "Byte Streams are used for binary data, while Character Streams are used for decimal data.",
+      "c": "Character Streams are faster than Byte Streams in all cases.",
+      "d": "Byte Streams are used for binary data, while Character Streams are used for text data."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "Which of the following best describes the concept of multithreading in Java?",
+    "options": {
+      "a": "Multiple threads execute concurrently, sharing the same memory space.",
+      "b": "Only one thread executes at a time, ensuring sequential execution.",
+      "c": "Threads in Java cannot communicate with each other.",
+      "d": "Threads require separate memory allocation for each thread to run."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "What will happen when the above code is executed? (ExampleThread)",
+    "options": {
+      "a": "The program will execute successfully, printing \"Thread is running.\" twice.",
+      "b": "The program will throw an error when attempting to start the thread a second time.",
+      "c": "The program will terminate without any output.",
+      "d": "The program will execute successfully, printing \"Thread is running.\""
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "Which method is used to start a thread in Java?",
+    "options": {
+      "a": "run()",
+      "b": "start()",
+      "c": "execute()",
+      "d": "begin()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "What will happen when the above code is executed? (RunnableExample)",
+    "options": {
+      "a": "The program will throw a compile-time error because Runnable is not a thread.",
+      "b": "The program will execute successfully, and the run () method will run in a new thread.",
+      "c": "The program will execute the run () method directly on the main thread.",
+      "d": "The program will throw a runtime error because Runnable is not properly implemented."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "Which of the following states can a thread enter during its lifecycle in Java?",
+    "options": {
+      "a": "New, Runnable, Running, Blocked",
+      "b": "New, Runnable, Waiting, Blocked",
+      "c": "New, Runnable, Running, Sleeping, Dead",
+      "d": "New, Runnable, Waiting, Blocked, Terminated"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "What does the thread scheduler use to decide which thread to run when multiple threads are in the runnable state?",
+    "options": {
+      "a": "Thread priority",
+      "b": "Thread's execution time",
+      "c": "Thread name",
+      "d": "Thread creation order"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "Which of the following is true about the output? (PriorityExample)",
+    "options": {
+      "a": "The thread with the higher priority is guaranteed to execute first.",
+      "b": "The thread with the lower priority will never execute.",
+      "c": "The order of execution depends on the JVM and OS scheduling policies.",
+      "d": "The program will throw an error due to invalid priority values."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "What is the primary purpose of thread synchronization in Java?",
+    "options": {
+      "a": "To allow multiple threads to execute a method at the same time",
+      "b": "To ensure thread execution follows a specific order",
+      "c": "To prevent rare conditions and ensure data in-consistency",
+      "d": "To prevent race conditions and ensure data consistency"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Assignment 06",
+    "question": "Which of the following method returns a reference to the currently executing thread object?",
+    "options": {
+      "a": "public static boolean interrupted();",
+      "b": "public static Thread currentThread();",
+      "c": "public final boolean isAlive();",
+      "d": "public final void suspend();"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "What will be the output of the following Java program? (ReadFile)",
+    "options": {
+      "a": "Hello, World!",
+      "b": "This is Programming in Java online course.",
+      "c": "IOException",
+      "d": "null"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "Complete the following snippet with the required code.\nFile file = new File(\"file.txt\");\nif (________) {\nSystem.out.println(\"File exists.\");\n} else {\nSystem.out.println(\"File does not exist.\");\n}",
+    "options": {
+      "a": "file.exists()",
+      "b": "file.isFile()",
+      "c": "file.fileExists()",
+      "d": "file.isAvailable()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "What is the output of the following Java program? (Final int i=20; i=30;)",
+    "options": {
+      "a": "30",
+      "b": "Compiler Error",
+      "c": "Garbage value",
+      "d": "0"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "Which of these values is returned by read() method when the end of file (EOF) is encountered?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "Null"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "What will be the output of the following Java program? (Calculator obj.calc(2))",
+    "options": {
+      "a": "20",
+      "b": "100",
+      "c": "1000",
+      "d": "2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "What is the primary difference between Byte Streams and Character Streams in Java?",
+    "options": {
+      "a": "Byte Streams handle characters, while Character Streams handle bytes.",
+      "b": "Byte Streams are used for binary data, while Character Streams are used for image data.",
+      "c": "Character Streams are faster than Byte Streams in all cases.",
+      "d": "Byte Streams are used for binary data, while Character Streams are used for text data."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "What is the primary purpose of thread synchronization in Java?",
+    "options": {
+      "a": "To allow multiple threads to execute a method at the same time",
+      "b": "To ensure thread execution follows a specific order",
+      "c": "To ensure data inconsistency",
+      "d": "To prevent race conditions and ensure data consistency"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "Which stream does Java application uses to only READ data from a source, it may be a file, an array, peripheral device or socket?",
+    "options": {
+      "a": "InputStream",
+      "b": "OutputStream",
+      "c": "Input/OutputStream",
+      "d": "DataOutputStream"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "Which class in Java is used to create a new directory?",
+    "options": {
+      "a": "FileReader",
+      "b": "FileWriter",
+      "c": "File",
+      "d": "Directory"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "WEEK -7",
+    "question": "What is the primary purpose of input streams in Java?",
+    "options": {
+      "a": "To write data to a file.",
+      "b": "To read data from a file.",
+      "c": "To delete a file.",
+      "d": "To create directories."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which of the following is TRUE about check boxes and radio buttons?",
+    "options": {
+      "a": "Check boxes allow only one selection, while radio buttons allow multiple selections.",
+      "b": "Check boxes allow multiple selections, while radio buttons allow only one selection.",
+      "c": "Both allow only one selection.",
+      "d": "Both allow multiple selections."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which layout manager arranges components in a rectangular grid?",
+    "options": {
+      "a": "FlowLayout",
+      "b": "CardLayout",
+      "c": "BorderLayout",
+      "d": "GridLayout"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which method is used to set the title of a Frame in Java?",
+    "options": {
+      "a": "setTitle()",
+      "b": "setName()",
+      "c": "setText()",
+      "d": "setLabel()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which method is used to request that a component be repainted in Java?",
+    "options": {
+      "a": "paint()",
+      "b": "repaint()",
+      "c": "update()",
+      "d": "draw()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which AWT component is used to display a scrolling list of items?",
+    "options": {
+      "a": "Label",
+      "b": "List",
+      "c": "Button",
+      "d": "TextField"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which layout manager arranges components in a flow, placing them one after another?",
+    "options": {
+      "a": "FlowLayout",
+      "b": "BorderLayout",
+      "c": "GridLayout",
+      "d": "CardLayout"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "What does \"AWT\" stand for in Java?",
+    "options": {
+      "a": "Abstract Widget Toolkit",
+      "b": "Advanced Window Toolkit",
+      "c": "Abstract Window Toolkit",
+      "d": "Advanced Widget Toolkit"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which AWT component is used to create a button in a GUI?",
+    "options": {
+      "a": "Label",
+      "b": "Button",
+      "c": "TextField",
+      "d": "Checkbox"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which of the following correctly describes the GUI shown below? (First Name, Last Name fields)",
+    "options": {
+      "a": "It contains two Labels and one TextField.",
+      "b": "It contains one Frame, two Labels, and two TextFields.",
+      "c": "It contains two Frames, two Labels, and two TextFields.",
+      "d": "It contains one Frame, two Buttons, and two TextFields."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week-8",
+    "question": "Which of the following is TRUE about a check box in Java?",
+    "options": {
+      "a": "A check box cannot be in the on or off state.",
+      "b": "Clicking a check box changes its state between on and off.",
+      "c": "A check box can be on and off at the same time.",
+      "d": "A check box cannot be grouped with other check boxes."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "The container displays a number of components in a row, but adjusts according to the window size. Which of the following layout manager(s) is most naturally suited for the layout given above?",
+    "options": {
+      "a": "FlowLayout",
+      "b": "BorderLayout",
+      "c": "GridLayout",
+      "d": "BoxLayout"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "In Java, what is the primary purpose of a layout manager?",
+    "options": {
+      "a": "To manage memory allocation",
+      "b": "To arrange GUI components within a container",
+      "c": "To handle exception handling",
+      "d": "To control database connections"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "What happens when the button in this Java code snippet is clicked? (JOptionPane.showMessageDialog)",
+    "options": {
+      "a": "The program exits",
+      "b": "A message dialog with the text \"Welcome to the course\" is displayed",
+      "c": "The button label changes to \"Welcome to the course\"",
+      "d": "Nothing happens"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "Consider the following code... What will be the output of the above code?",
+    "options": {
+      "a": "Creates a JFrame with a JButton labeled \"Programming in Java\"",
+      "b": "Compiles with errors",
+      "c": "Displays a message dialog",
+      "d": "Creates a JPanel with a JButton labeled \"Programming in Java\""
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "What should replace // INSERT CODE HERE to create a JFrame with a JButton labeled \"Click Me\"?",
+    "options": {
+      "a": "frame.add(button);",
+      "b": "frame.insert(button);",
+      "c": "frame.append(button);",
+      "d": "frame.push(button);"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "What should the erroneous line (panel.setFlowLayout();) be replaced with?",
+    "options": {
+      "a": "panel.setLayout(new);",
+      "b": "panel.addFlowLayout();",
+      "c": "panel.appendLayout(new FlowLayout());",
+      "d": "panel.setLayout(new FlowLayout());"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "Which method is used to remove a component from a container in AWT?",
+    "options": {
+      "a": "remove()",
+      "b": "deleteComponent()",
+      "c": "removeComponent()",
+      "d": "destroy()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "Which method is used to handle mouse click events in Java Swing?",
+    "options": {
+      "a": "mouseClicked()",
+      "b": "keyPressed()",
+      "c": "actionPerformed()",
+      "d": "componentShown()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "Which Swing component is best suited for displaying a drop-down list of selectable options?",
+    "options": {
+      "a": "JButton",
+      "b": "JComboBox",
+      "c": "JTextField",
+      "d": "JPanel"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-9",
+    "question": "Which of the following function is used to specify the layout of a container.",
+    "options": {
+      "a": "UseLayout()",
+      "b": "setLayout()",
+      "c": "layout()",
+      "d": "DesignLayout()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which Swing component is used to display a window?",
+    "options": {
+      "a": "JFrame",
+      "b": "JButton",
+      "c": "JLabel",
+      "d": "JTextField"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which Swing component is used to enter a single line of text?",
+    "options": {
+      "a": "JButton",
+      "b": "JLabel",
+      "c": "JTextField",
+      "d": "JPanel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which Swing component is commonly used to display non-editable text?",
+    "options": {
+      "a": "JLabel",
+      "b": "JButton",
+      "c": "JFrame",
+      "d": "JTextField"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which JDBC interface is used to execute SQL statements?",
+    "options": {
+      "a": "ResultSet",
+      "b": "Statement",
+      "c": "Connection",
+      "d": "DriverManager"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which JDBC object contains the result of a SELECT query?",
+    "options": {
+      "a": "Connection",
+      "b": "Statement",
+      "c": "ResultSet",
+      "d": "DriverManager"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which JDBC class is used to establish a database connection?",
+    "options": {
+      "a": "DriverManager",
+      "b": "ResultSet",
+      "c": "Statement",
+      "d": "Scanner"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which Java class is used to connect a client to a server?",
+    "options": {
+      "a": "ServerSocket",
+      "b": "Socket",
+      "c": "URL",
+      "d": "NetworkInterface"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which class is used by a server to listen for client connections?",
+    "options": {
+      "a": "Socket",
+      "b": "URL",
+      "c": "ServerSocket",
+      "d": "NetworkInterface"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which protocol is used in the URL https://nptel.ac.in?",
+    "options": {
+      "a": "FTP",
+      "b": "HTTP",
+      "c": "HTTPS",
+      "d": "SMTP"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "Week - 10",
+    "question": "Which method of NetworkInterface is used to check whether a network interface is up?",
+    "options": {
+      "a": "isActive()",
+      "b": "isUp()",
+      "c": "isRunning()",
+      "d": "isConnected()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "How do you establish a connection to a database using JDBC?",
+    "options": {
+      "a": "By creating an instance of the Connection interface",
+      "b": "By using the DriverManager.getConnection() method",
+      "c": "By implementing the Connection interface",
+      "d": "By extending the Connection class"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "Which method executes a simple query and returns a single Result Set object?",
+    "options": {
+      "a": "executeQuery()",
+      "b": "executeUpdate()",
+      "c": "execute()",
+      "d": "run()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "Which of the following ensures that the correct driver is used to access each data source?",
+    "options": {
+      "a": "java.sql.Manager",
+      "b": "java.sql.DriverManager",
+      "c": "java.sql.Statement",
+      "d": "java.sql.DriverSession"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "What is the purpose of the ResultSet interface in JDBC?",
+    "options": {
+      "a": "To store the result of a query",
+      "b": "To execute SQL queries",
+      "c": "To manage database connections",
+      "d": "To update data in the database"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "What does setAutoCommit(false) do?",
+    "options": {
+      "a": "commits transaction after each query",
+      "b": "explicitly commits transaction",
+      "c": "does not commit transaction automatically after each query",
+      "d": "never commits transaction"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "The following is a statement in Java using JDBC. Which of the following statement is FALSE?",
+    "options": {
+      "a": "3306 is the default MySQL port.",
+      "b": "Database name is 'nptel'",
+      "c": "The database server is hosted on IP 127.0.0.1",
+      "d": "Username is 'java' and the password is 'joy'"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "What is the correct order to close database resources?",
+    "options": {
+      "a": "Connection then Statement then ResultSet",
+      "b": "ResultSet then Statement then Connection",
+      "c": "Statement then Connection then ResultSet",
+      "d": "Statement then ResultSet then Connection"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "What is the full form of JDBC?",
+    "options": {
+      "a": "Java Database Connectivity",
+      "b": "Java Data Code",
+      "c": "Java Data Communication",
+      "d": "Java Development Connectivity"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "Fill in the missing code to establish a connection to a MySQL database.",
+    "options": {
+      "a": "DriverManager.connect(\"mysql:localhost:mydb\", \"user\", \"password\");",
+      "b": "DriverManager.getConnection(\"jdbc:mysql://localhost:3306/mydb\", \"user\", \"password\");",
+      "c": "Connection.get(\"jdbc:mysql://localhost:3306/mydb\", \"user\", \"password\");",
+      "d": "Driver.connect(\"jdbc:mysql://localhost:mydb\", \"user\", \"password\");"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-11",
+    "question": "What is the purpose of the DriverManager class in JDBC?",
+    "options": {
+      "a": "To manage database connections.",
+      "b": "To execute SQL queries.",
+      "c": "To fetch data from a database.",
+      "d": "To represent a database record."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which method returns the number of characters in a Java String?",
+    "options": {
+      "a": "size()",
+      "b": "length()",
+      "c": "count()",
+      "d": "getSize()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which method is used to get a character at a specified position in a String?",
+    "options": {
+      "a": "charAt()",
+      "b": "getChar",
+      "c": "characterAt()",
+      "d": "getAt()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which keyword is used to create a subclass in Java?",
+    "options": {
+      "a": "implements",
+      "b": "inherits",
+      "c": "extends",
+      "d": "super"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which block is executed whether an exception occurs or not?",
+    "options": {
+      "a": "try",
+      "b": "catch",
+      "c": "throw",
+      "d": "finally"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which keyword is used to explicitly throw an exception in Java?",
+    "options": {
+      "a": "throws",
+      "b": "throw",
+      "c": "exception",
+      "d": "catch"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which keyword is used to indicate that a method may throw an exception?",
+    "options": {
+      "a": "throw",
+      "b": "throws",
+      "c": "try",
+      "d": "finally"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which syntax is used to declare an array variable in Java?",
+    "options": {
+      "a": "array",
+      "b": "newarray",
+      "c": "[]",
+      "d": "arrayof"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which layout manager arranges components in five regions?",
+    "options": {
+      "a": "FlowLayout",
+      "b": "BorderLayout",
+      "c": "GridLayout",
+      "d": "BoxLayout"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which method is used to register an ActionListener with a JButton?",
+    "options": {
+      "a": "addActionListener()",
+      "b": "addButtonListener()",
+      "c": "setAction()",
+      "d": "registerAction()"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "assignment": "WEEK-12",
+    "question": "Which method of NetworkInterface is used to check whether a network interface is up?",
+    "options": {
+      "a": "isActive()",
+      "b": "isUp()",
+      "c": "isRunning()",
+      "d": "isConnected()"
+    },
+    "correct_answer": "b"
+  }
+]

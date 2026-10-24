@@ -1,0 +1,19 @@
+{
+  "name": "java-mcq-portal",
+  "version": "1.0.0",
+  "description": "Java MCQ Portal & NPTEL PYQ Exam Mastery Suite",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "java",
+    "mcq",
+    "nptel",
+    "pyq",
+    "quiz"
+  ],
+  "author": "",
+  "license": "MIT"
+}
